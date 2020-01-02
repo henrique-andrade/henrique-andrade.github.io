@@ -1,4 +1,4 @@
-# Installing gretl for dummies (building from source)
+# Installing gretl for dummies
 
 ## elementary OS
 
@@ -70,7 +70,7 @@ Now you have **gretl** installed and accesible under the Applications menu in el
 
 ### Updating 
 
-To keep your gretl's installation up to date you just need to open **Terminal** and run the following commands:
+To keep your **gretl**'s installation up to date you just need to open **Terminal** and run the following commands:
 
 ```bash
 cd ~/gretl/git  
